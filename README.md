@@ -1,11 +1,17 @@
 ## laravel-modal-uploader
 Simple Js and XHR based Modal to upload a single file (Like WhatsApp Web previous versions).
 
+## Note
+
+This project is under construction (but working), use at your own risk. 
+
+
 ## Requirements
 
 1. [Laravel 4+](http://laravel.com/docs/5.1#installation)
-4. Bootstrap 3+
-5. Jquery
+2. Bootstrap 3+
+3. Jquery
+4. Min Laravel Knowledge
 
 ## Basic Usage:
 
