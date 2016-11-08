@@ -102,7 +102,7 @@ jQuery(function(){
 
 
     //----- Quickfix Same Image Isn't Show
-    uploadViewModal.on('hidden.bs.modal', function () {
+    uploadModal.on('hidden.bs.modal', function () {
         fileInput.val("");
     })
 });
